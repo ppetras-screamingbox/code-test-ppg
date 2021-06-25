@@ -1,5 +1,8 @@
 # Code test
 
+## Solution
+Rewritten `cleanse()` function is in [Cleanser helper](./src/utils/cleanser/index.js)
+
 ## Requirements
 ```
 $ node -v
